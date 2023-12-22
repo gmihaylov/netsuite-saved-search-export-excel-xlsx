@@ -13,6 +13,9 @@ Proof of concept Suitelet that exports Saved Search rows to Excel (XLSX file for
 ## Performance
 - Tested up to ~50k rows (5 columns)
 
+## More info
+Check SheetJS https://docs.sheetjs.com/docs/demos/cloud/netsuite/
+
 ## Example feed array (array of arrays):
 ```javascript
 [["Name","Document Number"],["1221","1"],["267","1"],["998","1"],["1249","1"],["83","1"],["472","1"],["842","1"],["1149","1"],["824","1"],["748","1"],["907","1"],["631","1"],["92","1"],["1044","1"],["823","1"],["630","1"],["1508","1"],["1049","1"],["1036","1"],["562","1"],["512","1"],["1670","2"],["1668","2"],["-5","2"]]
