@@ -7,7 +7,7 @@ Proof of concept Suitelet that exports Saved Search rows to Excel (XLSX file for
 
 ## Options / Features
 - Saved search column labels are used for sheet headers
-- xlsx.js & jszip libraries are used for excel file generation
+- xlsx.js & jszip libraries are used for excel file generation (both located in sheetjs folder)
 - Concept can be used in Scheduled / MAP Reduce Scripts
 
 ## Performance
