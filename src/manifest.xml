@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>NetSuite Saved Search Export Excel XLSX</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>

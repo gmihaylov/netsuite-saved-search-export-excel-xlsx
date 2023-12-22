@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_ns_ss_exp_excel_xlsx_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>NetSuite Saved Search Export Excel XLSX</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/NetSuite Saved Search Export Excel XLSX/NetSuiteSavedSearchExportExcelXLSX_SL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_ns_ss_exp_excel_xlsx_sl_dep">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole></runasrole>
+      <status>RELEASED</status>
+      <title>NetSuite Saved Search Export Excel XLSX</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
